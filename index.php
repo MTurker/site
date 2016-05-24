@@ -1,1 +1,1 @@
-<?php echo "SKDAŞSDKŞLSADKŞSALD.";?>
+http://idea.qinxi1992.cn
