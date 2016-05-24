@@ -12,9 +12,9 @@
     <div id="menu">
     	<div class="logo"><a href="#">Mehmet TÜRKER</a></div>
         <ul>
-            <li><a href="#">anasayfa</a></li>
-            <li><a href="#">hakkımda</a></li>
-            <li><a href="#">iletişim</a></li>
+            <li><a href="#">Anasayfa</a></li>
+            <li><a href="#">Hakkımda</a></li>
+            <li><a href="#">İletişim</a></li>
         </ul>
     </div>
     
